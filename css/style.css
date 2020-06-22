@@ -1,0 +1,25 @@
+.navbar{
+	background-color: #155592 !important;
+	border-bottom: 2px solid #fff;
+}
+.navbar-brand img{
+	width: 120px !important;
+}
+
+.full-feature{
+	background-image: url("../img/developers.jpg");
+	min-height: 600px;
+	background-size: cover;
+	background-position: center;
+}
+.telthem {
+    position: absolute;
+    color: #fff;
+    font-size: 44px;
+    margin-top: 302px !important;
+    margin-left: 334px;
+}
+
+.tauzenl .list-unstyled li a{
+	color: #fff !important;
+}
